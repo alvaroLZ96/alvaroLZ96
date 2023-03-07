@@ -1,11 +1,14 @@
 ### Hi there ![alien (1)](https://user-images.githubusercontent.com/113988129/223414582-c37b5d3d-2935-4742-a3e4-0aa2ca7892fa.gif)
 
+Welcome to my GitHub. I'm Alvaro, Full stack developer 👨‍💻 and here you'll find a variety of projects I've worked on.
+🙋‍♂️  Passionate about sports and music
+✉️  You can contact me at [alvarolopezzarraute@gmail.com](mailto:alvarolopezzarraute@gmail.com)
+🤝  I'm open to collaborate on projects.
 
-¡Hola! Bienvenido a mi GitHub. Soy Álvaro y aquí encontrarás una variedad de proyectos en los que he trabajado.
+🧠 I'm learning MERN stack.
 
-Me apasiona el desarrollo de software y estoy constantemente aprendiendo nuevas tecnologías y habilidades para mejorar como desarrollador. En mis proyectos, me esfuerzo por aplicar las mejores prácticas de codificación y crear aplicaciones útiles, escalables y fáciles de mantener.
+Thanks for visiting my GitHub and I hope you find something that interests you - feel free to explore my projects and feel free to leave me feedback!
 
-En mi tiempo libre, me gusta contribuir a proyectos de código abierto y compartir mi conocimiento con la comunidad de desarrolladores. También estoy disponible para proyectos y colaboraciones, así que no dudes en ponerte en contacto conmigo si necesitas ayuda con algún proyecto.
+### Technologies
 
-Gracias por visitar mi GitHub y espero que encuentres algo que te interese. ¡No dudes en explorar mis proyectos y no dudes en dejarme tus comentarios!
-
+![pngegg (2)](https://user-images.githubusercontent.com/113988129/223418378-9d6f992d-af79-4b15-b511-aa9fa4b8730c.png)

@@ -2,7 +2,7 @@
 
 Welcome to my GitHub. I'm Alvaro, Full stack developer 👨‍💻 and here you'll find a variety of projects I've worked on.
 
-🙋‍♂️  Passionate about sports and music.
+🤩  Passionate about sports and music.
 
 ✉️  You can contact me at [alvarolopezzarraute@gmail.com](mailto:alvarolopezzarraute@gmail.com)
 

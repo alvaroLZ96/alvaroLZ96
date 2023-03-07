@@ -4,11 +4,11 @@ Welcome to my GitHub. I'm Alvaro, Full stack developer 👨‍💻 and here you'
 
 🤩  Passionate about sports and music.
 
-✉️  You can contact me at [alvarolopezzarraute@gmail.com](mailto:alvarolopezzarraute@gmail.com)
+🧠  I'm learning MERN stack.
 
 🤝  I'm open to collaborate on projects.
 
-🧠 I'm learning MERN stack.
+✉️  You can contact me at [alvarolopezzarraute@gmail.com](mailto:alvarolopezzarraute@gmail.com)
 
 Thanks for visiting my GitHub and I hope you find something that interests you - feel free to explore my projects and feel free to leave me feedback! 🙋‍♂️
 

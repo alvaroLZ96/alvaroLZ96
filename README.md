@@ -1,5 +1,4 @@
-### Hi there ![alien](https://user-images.githubusercontent.com/113988129/223414428-c207801c-fc57-4e1c-b609-ca1e0c77b927.gif)
-
+### Hi there ![alien (1)](https://user-images.githubusercontent.com/113988129/223414582-c37b5d3d-2935-4742-a3e4-0aa2ca7892fa.gif)
 
 
 ¡Hola! Bienvenido a mi GitHub. Soy Álvaro y aquí encontrarás una variedad de proyectos en los que he trabajado.

@@ -10,5 +10,5 @@ Welcome to my GitHub. I'm Alvaro, Full stack developer 👨‍💻 and here you'
 
 🧠 I'm learning MERN stack.
 
-Thanks for visiting my GitHub and I hope you find something that interests you - feel free to explore my projects and feel free to leave me feedback!     ![man_raising_hand](https://user-images.githubusercontent.com/113988129/223419347-b44a8647-caba-448c-ac49-03a6628256b6.gif)
+Thanks for visiting my GitHub and I hope you find something that interests you - feel free to explore my projects and feel free to leave me feedback! 🙋‍♂️
 

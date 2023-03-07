@@ -1,4 +1,5 @@
-### Hi there ![hang-loose-shaka]([https://user-images.githubusercontent.com/113988129/223413539-c6758477-cb09-47cb-8a71-6435512e4004.gif](https://blog.joypixels.com/content/images/2020/09/alien-1.gif))
+### Hi there ![alien](https://user-images.githubusercontent.com/113988129/223414428-c207801c-fc57-4e1c-b609-ca1e0c77b927.gif)
+
 
 
 ¡Hola! Bienvenido a mi GitHub. Soy Álvaro y aquí encontrarás una variedad de proyectos en los que he trabajado.
